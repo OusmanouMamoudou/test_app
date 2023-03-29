@@ -7,17 +7,17 @@ Test.
 Login UI, List of Some books UI, List of favorite books and a Detail UI for a book
 
 Widgets used:
-  Material
-  TextField
-  Stack
-  Icon
-  Image.asset
-  Column
-  Row
-  Text
-  Padding 
-  Expanded
-  Size
+  Material,
+  TextField,
+  Stack,
+  Icon,
+  Image.asset,
+  Column,
+  Row,
+  Text,
+  Padding ,
+  Expanded,
+  Size,
   MediaQuery...
 
 
